@@ -118,7 +118,7 @@ Perfect! Here's your trip summary:
 Our team will help you with pricing and availability.
 
 📞 Call:
-+91 8660686240
++91 9620849670
 
                     `
                 }
