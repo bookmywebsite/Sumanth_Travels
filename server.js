@@ -6,11 +6,7 @@ const Groq = require('groq-sdk');
 
 const app = express();
 
-app.use(cors({
-    origin: [
-        'https://sumanthcarrentals.com'
-    ]
-}));
+app.use(cors());
 app.use(express.json());
 
 /* GROQ */
